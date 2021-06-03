@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The protestation of the two and twenty divines, for the setling of the church: And the particulars by them excepted against in the liturgie: not that the Book of Common Prayer of the Church of England should be utterly abolished, but purged of all innovations and absurdities. Ordered by them to be printed according to their own directions.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91129</idno><idno type="EEBO-CITATION">99859014</idno>
+  <idno type="VID">155762</idno>
+  <idno type="EEBO-PROQUEST">2248508113</idno>
+  
+            <idno type="STC">Wing P3871</idno>
+            <idno type="STC">Thomason E92_24</idno>
+            <idno type="STC">ESTC R11388</idno>
+            <idno type="PROQUEST">99859014</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859014e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91129)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155762)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E92[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The protestation of the two and twenty divines, for the setling of the church: And the particulars by them excepted against in the liturgie: not that the Book of Common Prayer of the Church of England should be utterly abolished, but purged of all innovations and absurdities. Ordered by them to be printed according to their own directions.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Beck, and are to be sold in the old Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: The "3" on the imprint date is crossed out; ". March. 10 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England. --  Book of common prayer --  Controversial literature --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155762:1"/>
+            <p>THE PROTESTATION Of the Two and twenty DIVINES, For the Setling of the CHURCH: And the Particulars by them excepted against in the Liturgie: Not that the Book of Common Prayer of the Church of <hi>England</hi> should be utterly abolished, but purged of all Innovations and Absurdities.</p>
+            <p>Ordered by them to be printed according to their own Directions.</p>
+            <p>LONDON, <add>March. 10</add> Printed for <hi>H. Beck,</hi> and are to be sold in the old Baily. <hi>Anno Dom.</hi> 1643. <add>1642</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155762:2"/>
+            <pb facs="tcp:155762:2"/>
+            <head>The Innovations and Absurdities in the Book of Common Pray<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, excepted against by the two and twentie DIVINES.</head>
+            <list>
+               <item>I. <hi>
+                     <seg rend="decorInit">B</seg>Ecause there be some things in it of which we know not how to make any reasonable sense, viz.</hi>
+                  <list>
+                     <item>1. Whatsoever is manifest, the same is right, <hi>Ephe.</hi> 5.13. See [Epi. 3. Lent.]</item>
+                     <item>2. In the power of the divine Majestie to wor<g ref="char:EOLhyphen"/>ship the unity. See [Col. Trin.]</item>
+                     <item>3. Every Parishioner must communicate thrice a yeer, and also receive the <hi>Sacraments and other rites.</hi> See [Rubr. after Commu.]</item>
+                     <item>4. God is said to be father of all that is called father in heaven, <hi>Ephe.</hi> 3.15. See [Epistle 16. Trinity.]</item>
+                     <item>5. This is the sixth moneth which was called barren, <hi>Luke.</hi> 1.28. See [Gosp. Annunc.]</item>
+                     <item>6. Or ever your pots be made hot with thornes, so let indigna<g ref="char:EOLhyphen"/>tion vex him, as a thing that is raw, <hi>Psal.</hi> 58.8. See [Gosp. Annun.]</item>
+                     <item>7. When the company of the spearmen and multitude of the Mighty are scattered abroad among the beasts of the people (that they humblie bring pieces of silver) and when he hath scattered the people that delight in war, Then shall the Princes, &amp;c. <hi>Ps.</hi> 68.30.</item>
+                  </list>
+               </item>
+               <item>II. <hi>Because as far as we are able to discerne, there is contradiction in it.</hi>
+                  <list>
+                     <item>1. To the booke of Articles, which denieth that Confirmation hath any visible signe, whereas the last prayer in Confirmation, makes imposition of hands a signe to certifie the children of Gods favour and gracious goodnesse towards them.</item>
+                     <item>2. To it self, by affirming in the Catechisme, that there are but two Sacraments, and yet ascribing to Confirmation, all things that are required to the being of a Sacrament, either in that book, or in the book of Articles.</item>
+                  </list>
+               </item>
+               <pb facs="tcp:155762:3"/>
+               <item> III. <hi>Because, to our best understanding, it seemeth to containe in it some untruthes.</hi>
+                  <list>
+                     <item>1. Innocents are said to be Gods witnesses, and to have confessed and shewed forth his praise, not in speaking, but in dying. See [Col. Inno.]</item>
+                     <item>2. It affirmeth that faith and repentance are required of Infants, that are to be baptized, and that they performe the same by their sureties. See [Addi. to the Cate.]</item>
+                     <item>3. That children baptized have all things necessary to salvation, and that they are undoubtedly saved. See [Rubr. the Cat.]</item>
+                     <item>4. That we have sure and certain hope of every one to be buried, that he shall rise again to everlasting life. See [In the buriall.]</item>
+                     <item>5. That nothing is ordayned by it to be read in Gods service, but the very pure word of God, the holy scriptures, or that which is undoubtedly grounded upon the same. See [Preface.]</item>
+                     <item>6. That in the course of reading appointed, so much as possiblie may be, the reading of holy scriptures, is so set forth, that all things shall be done in order, without breaking one piece from another. See [Ibidem,]</item>
+                  </list>
+                  <list>
+                     <head>Some doubtfull matters.</head>
+                     <item>It affirmeth that there be Archangels and that Michael is a crea<g ref="char:EOLhyphen"/>ted Angel. See [Col. and Gospel Micha.]</item>
+                     <item>2. It alloweth Baptisme in a house meerly private, and seemes thereby to nourish the superstitious opinion of the necessity there<g ref="char:EOLhyphen"/>of. See [Private Bap.]</item>
+                     <item>3. It appointeth the Minister to use conditionall Baptisme in the publike Congregation, after the childe hath been privately Bapti<g ref="char:EOLhyphen"/>zed, in this forme, If thou be not baptized already: <hi>N.</hi> I baptize thee, in the name, &amp;c. [In fine.]</item>
+                     <item>4. It saith that there be two Sacraments onely as generally ne<g ref="char:EOLhyphen"/>cessarie unto salvation, wherein it is also dangerously implyed that there are more then two sacraments. See [Addi. to the Cate.]</item>
+                     <item>5. It alloweth of a private Communion betwixt the Minister
+<pb facs="tcp:155762:3"/> and the sick person onely. See [Visi. of sick]</item>
+                     <item>6. It affirmeth that our Ceremonies pertain to edification, and that they are apt to stir up the dull minde of men to the remem<g ref="char:EOLhyphen"/>brance of his duety to God, by some speciall and notable significa<g ref="char:EOLhyphen"/>tion, whereby he may be edified. See [Pref. of Cerem.]</item>
+                     <item>7. It calleth Ministers Priests, a thing avoyded by the holy Ghost in the new Testament, as belonging to Sacrificers.</item>
+                     <item>8. It appointeth the Minister to say to the sick person. I (by Christs authority committed unto me) do absolve thee from all thy sinnes, In the name of, &amp;c. See [Visi. of sick.]</item>
+                  </list>
+               </item>
+               <item>IIII. <hi>Because the</hi> Holy Scripture <hi>is disgraced in it.</hi>
+                  <list>
+                     <item>1. The name of holy Scripture is given to the Apocrypha, which are made parts of the old Testament. See [Rubri. of Lesson.</item>
+                     <item>2. They are read rather then the holy Scripture, when any Holy day fals on the Sunday.</item>
+                     <item>3. Sundry Chapters of them are appointed by the Calender to be read thrice in the year, and none of the Canonicall of the old Testament so often.</item>
+                     <item>4. Certain whole Books of the holy Scriptures, are left unread by appointment, <hi>viz.</hi> The Book of <hi>Cant.</hi> both the Books of <hi>Chron.</hi> and the <hi>Apoc.</hi> save c. 1.2.22. and one or two pieces for Epistles. Like<g ref="char:EOLhyphen"/>wise the genealogie of our Saviour Christ, both in Saint <hi>Matthew</hi> and Saint <hi>Luke,</hi> is forbidden to be read in the Congregation.</item>
+                  </list>
+               </item>
+               <item>V. <hi>Because certain Chapters are appointed to be read out of the</hi> Apo<g ref="char:EOLhyphen"/>crypha, contain manifest untruths.
+<list>
+                     <item>1. <hi>Tobi.</hi> 12. 9. 12. 15. See [Octob. 4. Even.]</item>
+                     <item>2. <hi>Ecclesiastcus</hi> 24. <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>1. 12 See [Novemb. 7. morn.]</item>
+                     <item>3. <hi>Iudith</hi> 9. 4. 10. 13. See [Octob. 10.]</item>
+                     <item>4. <hi>Tobi</hi> 3. 8. See [S<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ptem. 30.]</item>
+                  </list>
+               </item>
+               <item>VI. <hi>Because it injoyneth</hi> Ceremonies <hi>which as we are perswaded are</hi> unlawfull. <hi>viz.</hi>
+                  <list>
+                     <item>The Surplice, Crosse, &amp;c. being humane inventions, without any warrant from Gods Word▪ of mysticall signification defiled with superstition; scandalous, of no necessary use, which ought to
+<pb facs="tcp:155762:4"/> be according to the truth of the Gospell, without carnall Rites.</item>
+                  </list>
+               </item>
+               <item>VII. <hi>Because it containeth some</hi> Prayers whereof the latter part de<g ref="char:EOLhyphen"/>pends not upon the former, <hi>viz.</hi>
+                  <list>
+                     <item>The Collects upon Innocents day. Epiphany. First Sunday in Lent. Sunday before Easter. Third Sunday after Easter. Trinity Sunday. Thirteenth Sunday after Trinity.</item>
+                     <item>And some prayers which are not warrantable, <hi>viz.</hi> The Collect upon 12. Sunday after Trinity, and on the first after the Offertory.
+<list>
+                           <item>1. We desire something that our prayers dare not presume to ask, whereas it is no presumption to ask any lawfull thing in Christs Name.</item>
+                           <item>2. We pray for that which we say, we dare not pray for, which is a contradiction.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>VIII. <hi>Because we</hi> subscribe to the reading of we know not what, <hi>viz.</hi>
+                  <list>
+                     <item>All Homilies that hereafter shall be set forth by common autho<g ref="char:EOLhyphen"/>ritie.</item>
+                  </list>
+               </item>
+               <item>IX. <p>
+                     <hi>Because the Collect, Epistle and Gospell on the first day of Lent, and the Epistle and Gospell on the first Sunday in Lent savour of</hi> supersti<g ref="char:EOLhyphen"/>tion, <hi>in regard of the time, for which they are appointed.</hi>
+                  </p>
+                  <p>So also doth the custome of doing open penance in the begin<g ref="char:EOLhyphen"/>ning of Lent, the practise whereof is approved, and the restitution thereof, wished in the Commination.</p>
+               </item>
+               <item>X. <hi>Because it permits any of the</hi> Communicants to make the publick confession of this <hi>(which also contains a Prayer) in the name of all the rest; which onely belongs to the Minister as his speciall Office, he be<g ref="char:EOLhyphen"/>ing the mouth of the people, and in that case a publique person.</hi>
+               </item>
+               <item>XI. <hi>Because it containeth in it divers</hi> corrupt translations <hi>of holy Scriptures.</hi>
+                  <list>
+                     <item>1. <hi>By leaving out of words.</hi>
+                        <list>
+                           <item>1. Higgaion, Selah and the titles of the Psalmes.</item>
+                           <item>2. The Conclusion after the 72. Psalme, and these words <hi>(praise ye the Lord)</hi> at the least 17. times.</item>
+                           <item>3. The Conclusion of the Lords Prayer, and that every where, thorowout the Service, after the Popish manner.</item>
+                           <item>4. In the reading of the Commandements, these words, <hi>Which
+<pb facs="tcp:155762:4"/> brought thee o<gap reason="illegible" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap> of the land of Egypt, out of the house of bondage.</hi>
+                           </item>
+                           <item>5. In the Epistle on the first Sunday after the Epiphany these words, holy and beloved, <hi>Colos.</hi> 3.12.</item>
+                        </list>
+                     </item>
+                     <item>2. <hi>Putting to of words.</hi>
+                        <list>
+                           <item>1. Psalme 14 three whole verses.</item>
+                           <item>2. Psalme 136. a whole verse in the end.</item>
+                           <item>3. Psalme 24.6. this word (O) added, corrupteth the text, by applying to Jacob, as spoken of him which belongs to God.</item>
+                           <item>4. <hi>Mat.</hi> 9.25. And said, Damsell arise. See [Gosp. 24. Trin.]</item>
+                           <item>5. <hi>Ier.</hi> 23.5. With wisdome. See [Epist. 25. Trin.]</item>
+                           <item>6. <hi>Luke</hi> 16.21. No man gave unto him. See [Gosp. Trin.]</item>
+                           <item>7. <hi>Luke</hi> 19 42. Thou wouldest take heed. [Gosp. 10. Tri.]</item>
+                           <item>8. Luc. 24.36. It is I, fear not. See [Epi. Saint Luk.] 2 <hi>Tim.</hi> 4.5. Be sober. See [Epist. Saint Luke.]</item>
+                        </list>
+                     </item>
+                     <item>3. <hi>Perverting the meaning of the holy Ghost.</hi>
+                        <list>
+                           <item>1. <hi>Psal.</hi> 117.4. Because of mens works done against the words of my lips, &amp;c. (for) concerning the works of men, by the words of thy lips, &amp;c.</item>
+                           <item>2. <hi>Ps.</hi> 18.26. With the froward thou shalt learn frowardnesse (for) with the froward, thou wilt shew thy self froward, <hi>spoken of God.</hi>
+                           </item>
+                           <item>3. <hi>Psal.</hi> 68.6. He makes men to be of one minde in an house (for) he maketh the solitarie to dwell in families.</item>
+                           <item>4. <hi>Psal.</hi> 105.28. They were not obedient, (for) they were not disobedient.</item>
+                           <item>5. <hi>Psal.</hi> 106.30. Phineas pray, (for) executed judgement.</item>
+                           <item>6. <hi>Psal.</hi> 107.40. Though he suffered them to be evil intreated, (for) he powreth contempt upon nobles.</item>
+                           <item>7. <hi>Psal.</hi> 1<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>5.3. The rod of the ungodly commeth not unto the lot of the righteous, (for) res<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>eth not upon it.</item>
+                           <item>8. <hi>Psal.</hi> 114.6. yea, I will pray yet against their wick<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>dn<gap reason="illegible" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap> (for) within a while I shall even pray in their miseries.</item>
+                           <item>9. <hi>Isai.</hi> 63.11. Israel remembred (for) He (that is, God) re<g ref="char:EOLhyphen"/>membred. See [Epi. Mund. East.]</item>
+                           <item>10. <hi>Mat.</hi> 27.9. Whom they bought of the children of Israel,
+<pb facs="tcp:155762:5"/> (for) whom the children of Israel valued. See [Gosp. last Lent.]</item>
+                           <item>11. <hi>Luc.</hi> 1.28 Hail full of grace (for) freely beloved. See [Annunt.]</item>
+                           <item>12. <hi>Luc.</hi> 1.48. The lowlinesse of his handmaid (for) poor de<g ref="char:EOLhyphen"/>gree. See [Magnificat.]</item>
+                           <item>13. 1. Cor. 9.27. Should be a castaway (for) reprovable. See [Epi. septua.]</item>
+                           <item>14. <hi>Gal.</hi> 4.25. Agar in Arabia bordereth upon Jerusalem, (for) answereth to Jerusalem that now is. See [Epi. 4. Lent.]</item>
+                           <item>15. <hi>Phil.</hi> 2.7. Christ was found in his apparell, like a man, (for) in shape as a man. See [Epi. last sun. in Lent.]</item>
+                           <item>16. <hi>Heb.</hi> 9.25. The high Priest entred into the holy place, with strange blood (for) other blood, that is, not his owne. See. [Wednesday before Easter.]</item>
+                           <item>17. 1. <hi>Pet.</hi> 3.20. When the long suffering of God, was once look<g ref="char:EOLhyphen"/>ed for (for) The long suffering of God aboad, or waited. See [Easter eve.]</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>XII. <hi>Because it</hi> misapplieth some place of the holy scriptures <hi>to the countenancing of erronious and doubtfull matters.</hi>
+                  <list>
+                     <item>1. <hi>Revel.</hi> 14.1. To those children whom Herod caused to be mur<g ref="char:EOLhyphen"/>dered, whom the collect calls Gods witnesses. See [Innocents.]</item>
+                     <item>2. 1. <hi>Pet.</hi> 3.17. To the time that Christ aboad in the grave. See [Easter Eve.]</item>
+                     <item>3. <hi>Revel.</hi> 12.7. To Michael as a created Angel. See [Michael.]</item>
+                  </list>
+               </item>
+            </list>
+            <div type="part">
+               <head>The Protestation.</head>
+               <p>VVE Protest before Almightie God, That we acknowledge the Churches of England, as they be established by publike Authoritie, to be true vi<g ref="char:EOLhyphen"/>sible Churches of Christ, That we desire the continuance of our ministery in them, above all earthly things, as that, without which our life would be bitter and wearisom unto up: That we dislike not a set form of prayer, to be used in the Church, and finally, That whatsoever before written, is not set down of any evil minde, or with a purpose to deprave the bookes of Common prayer, Ordination, or Homilies, but onely to shew some reasons why we cannot sub<g ref="char:EOLhyphen"/>scrib<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to all things contayned in the same.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
